@@ -1,6 +1,6 @@
 # Comandos utilizados en el juego learning branching git
 
-## Pricnipal
+## Principal
 
 - git commit
 - git checkout bugFix
@@ -52,4 +52,25 @@
 - git reset --hard o/main
 - git checkout -b feacture c2
 - git push origin feacture
+
+## Remotes
+
+- git rebase side1 side2
+- git rebase side2 side3
+- git rebase side3 main
+- git merge side1
+- git merge side2
+- git merge side3
+- git push origin main
+- git push origin foo
+- git push origin main~:foo
+- git push origin foo:main
+- git fetch origin main~1:foo
+- git fetch origin foo:main
+- git checkout foo
+- git merge main
+- git push origin :foo
+- git fetch origin :bar
+- git fetch origin bar:foo
+- git origin main:side
 - 
