@@ -74,7 +74,7 @@
 - git fetch origin bar:foo
 - git origin main:side
 
-## Nombre y mantricula
+## Nombre y Matricula
 
 Nombre: Esteban Pacheco
 
