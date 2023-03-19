@@ -74,7 +74,7 @@
 - git fetch origin bar:foo
 - git origin main:side
 
-## Creador
+## Nombre y mantricula
 
 Nombre: Esteban Pacheco
 
