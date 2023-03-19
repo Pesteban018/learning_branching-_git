@@ -36,4 +36,20 @@
 - git rebase main bugFix
 - git rebase bugFix side
 - git rebase side another
+- git branch bugwork main^^2^
+- git checkout one
+- git cherry-pink c4 c3 c2
+- git checkout two
+- git cherry-pink c5 c4 c3 c2
+- git bracnh -f thre c2
+- git clone
+- git checkout o/main
+- git pull
+- git fetch
+- git push
+- git fackeTeamwork
+- git pull --rebase
+- git reset --hard o/main
+- git checkout -b feacture c2
+- git push origin feacture
 - 
